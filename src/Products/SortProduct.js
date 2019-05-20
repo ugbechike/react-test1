@@ -21,7 +21,7 @@ function SortProduct(props) {
                                 height: 35
                             }}
                             className="form-control"
-                            onChange={props.handlesorting}
+                            onChange={props.sortProducts}
                             name="sort"
                         >
                             <option>-- sort data --</option>
