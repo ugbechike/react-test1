@@ -8,7 +8,12 @@ Step Three: Then run yarn start or npm start
 Step Four: App will run on port 3000 "http://localhost:3000/"
 Happy Coding!!!
 
-
+Features Added
+===================
+=== Infinite Scroll: when the user/client scrolls the products, the function will increment the page by one. I used the pagination routes.
+=== Axios: I used axios to fetch the data.
+=== Webpack config: This is a bundler i used to bundle the application... I prefer it to create-react-app though.
+=== React States: I manged the states inside the application and then set the states when there are changes. e.g sorting is set to false initially but when the user start fetching data, its set to true.
 
 
 Products Grid
